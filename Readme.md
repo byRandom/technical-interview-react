@@ -2,7 +2,7 @@
 
 APIs:
 
-- Facts Random: https://catfact.ninja/fact
-- Image Random: https://cataas.com/cat/says/hello
+- Random Fact: https://catfact.ninja/fact
+- Random Image: https://cataas.com/cat/says/hello
 
-Recupera un hecho aleatorio de gatos con la primera api y con la segunda usando la primera palabra recupera una imagen.
+Retrieve a random cat fact with the first API and use the first word from the fact to get an image with the second API.
